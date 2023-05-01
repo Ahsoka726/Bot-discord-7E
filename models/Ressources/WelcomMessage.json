@@ -1,0 +1,20 @@
+{
+    "Bienvenue": {
+        "Contenue": "Bienvenue sur ### sur le serveur de la 7E Compagnie !",
+        "Description": "La commande permet d'envoyer le message de bienvenue au nouveau Membre",
+        "Commande": "/Bienvenue @membre",
+        "Reponse" : "Message de bienvenue envoyé au membre"
+    },
+    "Quoicoubeuh": {
+        "Contenue": "Quoicoubeuh, Quoicoubeuh, Quoicoubeuh, Quoicoubeuh, Quoicoubeuh, Quoicoubeuh",
+        "Description": "La commande permet d'envoyer le message à un membre en privé Quoicoubeuh",
+        "Commande": "$Quoicoubeuh @member",
+        "Reponse" : "Message bien envoyé au membre"
+    },
+    "Miaou": {
+        "Contenue": "Miaou .",
+        "Description": "La commande permet d'envoyer le message à un membre en privé Miaou",
+        "Commande": "$Miaou @member",
+        "Reponse" : "Message bien envoyé au membre"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Bienvenue": {
+        "Contenue": "Bienvenue sur ### dans la fonction de Recrue LFE de la lfe!",
+        "Description": "La commande permet d'envoyer le message de bienvenue au nouveau Membre",
+        "Commande": "!Bienvenue@membre"
+    },
+    "SOS": {
+        "Contenue": "id staff, id veteran, id formateur, id recruteur, id operateur,",
+        "Description": "Commande qui permet d'afficher la liste des commandes",
+        "Commande": "!listeRoles"
+    },
+    "MsgClean": {
+        "Contenue": "Efface les 100 derniers messages du channel",
+        "Description": "Efface les 100 dernier messages ou est executer la commande datan de moin de 14 jours",
+        "Commande": "!MsgClean"
+    }
+}
