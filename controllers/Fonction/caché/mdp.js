@@ -4,7 +4,7 @@ const { measureMemory } = require("vm");
 const client = new Client({ intents: 3276799 });
 
 function MDP(message){
-    
+    // Password en cours de test, vous pouvez l'essayer ça fonctionne pas :p
     const password = '123456789';
 
     const passwordVerif = message.content;
